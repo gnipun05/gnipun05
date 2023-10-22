@@ -34,10 +34,14 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
 </div>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnipun05&" alt="gnipun05" /></p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
 
 <br/>
 <hr/>
