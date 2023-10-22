@@ -40,7 +40,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnipun05&" alt="gnipun05" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnipun05&theme=react&" alt="gnipun05" /></p>
 </div>
 
 <br/>
