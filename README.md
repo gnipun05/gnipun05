@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nipun+Garg!;" />
 </h1>
 
-<h3 align="center">A passionate Software Developer from India 🇨🇦</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <br/>
 
 <div align="center">
@@ -40,7 +40,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnipun05&show_icons=true&locale=en" alt="gnipun05" /></p>
 </div>
 
 <br/>
