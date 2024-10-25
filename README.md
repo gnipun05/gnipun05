@@ -10,7 +10,7 @@
 
 📫 How to reach me **gnipun05@gmail.com**
 
-⚡ Fun fact **Uncle Ben said: "With Great power comes great Responsibilities"**
+🫡 **Uncle Ben said: "With Great power comes great Responsibilities"**
 </div>
 
 <hr/>
